@@ -1,8 +1,8 @@
 
 provider "aws"{
 region = "ap-south-1"
-access_key = "AKIA255HPTYVB5TIDKH7"
-secret_key = "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"
+access_key = "AKIAXFYCGJHJXRYQJ6MG"
+secret_key = "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"
 }
 resource "aws_instance" "hai"
 {
